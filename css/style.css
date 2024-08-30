@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body {
+    background-image: url("../images/body-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+nav ul .image:hover{
+background-color: brown;
+
+}
+header {
+    
+    /* height: 100vh; */
+    background-color:  rgba(226,243,253,255);
+}
+nav {
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    width:40%;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+}
+.logo {
+    width: 40%;
+}
+.sneakersType {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    font-family: fantasy;
+    font-size:50px;
+    margin-top: 20px;
+}
+button {
+    background-color: rgba(226,243,253,255) ;
+    padding: 20px;
+    border-radius: 50px;
+    width: 20%;
+    border: none;
+    margin-top: 20px;
+}
+.intro {
+    margin-top: 50px;
+    margin-left: 10%;
+}
+.shoes {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin-top: 80px;
+
+}
+.shoes div {
+    width: 25%;
+    background-color: rgba(226,243,253,255);
+    border-radius: 50px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    padding: 10px;
+    cursor:pointer;
+
+}
+.intro-shoes1{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    background-color:  rgba(226,243,253,255);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    padding: 60px;
+    margin-top: 140px;
+
+}
+
+.sh {
+    /* margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: aqua; */
+}
+
+.intro-shoes1 p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+}
+.prix{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 60px;
+    color: crimson;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
